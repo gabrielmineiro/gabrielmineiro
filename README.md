@@ -1,7 +1,6 @@
 ### Olá, eu sou o Gabriel Nogueira 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nogueira-26328a230/)
-
+-Desenvolvedor Front-end
+-Estudante de desenvolvimento web full-stack
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmineiro&show_icons=true&theme=merko)
 
 ## Tecnologias que domino 💡
@@ -16,4 +15,6 @@
   <img align="center" alt="STYLED-COMPONENTS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="EXRESS.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-</div>
+</div><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nogueira-26328a230/)
