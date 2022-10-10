@@ -1,6 +1,8 @@
 ### Olá, eu sou o Gabriel Nogueira 👋
--Desenvolvedor Front-end
--Estudante de desenvolvimento web full-stack
+<ul>
+  <li>📚Desenvolvedor Front-end</li>
+  <li>🖥️Estudante de desenvolvimento web full-stack</li>
+</ul>
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmineiro&show_icons=true&theme=merko)
 
 ## Tecnologias que domino 💡
