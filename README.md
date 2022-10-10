@@ -3,6 +3,7 @@
   <li>📚Desenvolvedor Front-end</li>
   <li>🖥️Estudante de desenvolvimento web full-stack</li>
 </ul>
+
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmineiro&show_icons=true&theme=merko)
 
 ## Tecnologias que domino 💡
@@ -18,5 +19,7 @@
   <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="EXRESS.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div><br/>
+
+### Conecte-se comigo 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nogueira-26328a230/)
